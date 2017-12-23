@@ -12,3 +12,5 @@
 <h3>Dependencies: </h3>
 <hr>
 <p>Make sure Node.js is installed in you computer and run 'npm install' inside the BurgerBuilder project folder before running the server</p>
+
+<p>Run 'npm start' inside the project folder to start the server</p>

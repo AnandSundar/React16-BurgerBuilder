@@ -9,7 +9,7 @@ class Modal extends Component {
     // return true only if the next property and current property is different
     // this prevents from model from updating when not required thus increasing app performance
     shouldComponentUpdate(nextProps, nextState) {
-        return nextProps.show !== this.props.show;
+        return nextProps.show !== this.props.show || nextProps.children !== this.props.children;
     }
 
     render() {
