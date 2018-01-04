@@ -1,4 +1,4 @@
-.NavigtionItems {
+.NavigationItems {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -10,6 +10,6 @@
 
 @media (min-width: 500px) {
     .NavigationItems {
-        /* flex-flow: row; */
+        flex-flow: row;
     }
 }

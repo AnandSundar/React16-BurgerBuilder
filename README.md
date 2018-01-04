@@ -1,8 +1,8 @@
-<h1>React 16 - Burger Builder</h1>
+# React 16 - Burger Builder
 
-<p>A fun way to build and order Burger online</p>
+A fun way to build and order Burger online
 
-<h2>Technologies Used: </h2>
+## Technologies Used: 
 
 <ul>
 <li>Node.js</li>
@@ -16,8 +16,8 @@
     </ul>
 </ul>
 
-<h3>Dependencies: </h3>
-<hr>
-<p>Make sure Node.js is installed in you computer and run 'npm install' inside the BurgerBuilder project folder before running the server</p>
+### Dependencies:
 
-<p>Run 'npm start' inside the project folder to start the server</p>
+Make sure Node.js is installed in you computer and run `npm install` inside the BurgerBuilder project folder before running the server
+
+Run `npm start` inside the project folder to start the server
