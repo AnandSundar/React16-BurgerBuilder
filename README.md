@@ -13,6 +13,7 @@ A fun way to build and order Burger online
         <li>Axios</li>
         <li>Routing</li>
         <li>Forms and Form validation</li>
+        <li>Redux</li>
     </ul>
 </ul>
 
